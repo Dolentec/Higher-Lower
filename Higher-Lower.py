@@ -1,3 +1,16 @@
+##########################################################################
+# Author        : Niels van Rheenen
+# Goal           : Dit programma 
+# Date / version : v0.1.4
+#
+# Input          : your prediction
+# Output         : Higher, lower, you have guesed the number
+# Used Calculations / algorithms : greater than, smaller than, equal
+#
+# Imported Python modules: System,Operating system and Random
+# Other Notes : -
+#
+##########################################################################
 import random
 
 # Hier word een module ge-inporteerd waarmee je makkelijk random getallen kan genereren.
